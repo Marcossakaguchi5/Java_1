@@ -1,3 +1,4 @@
+package P1;
 class ParalelepipedoCorrigido{
     //Atributos:
     double altura;

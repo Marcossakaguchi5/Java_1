@@ -1,3 +1,4 @@
+package P1;
 class ElevadorCorrigido {
     //Atributos:
     int andarAtual;

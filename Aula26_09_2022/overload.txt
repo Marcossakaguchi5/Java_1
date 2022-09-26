@@ -1,0 +1,10 @@
+Overload é ter varios métodos com nomes igual mas assinaturas diferentes.
+overload == sobrecarga de métodos.
+
+° exemplo:
+void imprimeExtrato(){
+    // Codigo para 15 dias.
+}
+void imprimeExtrato(int dias){
+    //Codigo para "n" dias.
+}

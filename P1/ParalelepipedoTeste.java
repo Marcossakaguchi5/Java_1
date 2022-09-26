@@ -1,3 +1,4 @@
+package P1;
 class ParalelepipedoTeste {
     public static void main(String[] args){
         ParalelepipedoCorrigido p = new ParalelepipedoCorrigido(3, 4, 2);
