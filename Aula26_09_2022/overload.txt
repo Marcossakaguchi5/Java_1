@@ -1,4 +1,5 @@
 Overload é ter varios métodos com nomes igual mas assinaturas diferentes.
+realiza a mesma coisa mas de formas diferentes.
 overload == sobrecarga de métodos.
 
 ° exemplo:
@@ -8,3 +9,5 @@ void imprimeExtrato(){
 void imprimeExtrato(int dias){
     //Codigo para "n" dias.
 }
+
+° DRY (Don't repeat yourself)  

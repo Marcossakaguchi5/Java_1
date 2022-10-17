@@ -1,0 +1,38 @@
+======================================== HERANÇA ========================================
+
+        Herança:
+            ° Reutilização de codigo na progamação orientada a objetos.
+            ° Utilizar partes de codigos já desenvolvidos em outros objetos.
+            ° Maior organização e agilidade de desenvolvimento.
+            ° Elimina a duplicação de codigo.
+            ° D.R.Y (Don't Repeat Yourself)
+            ° Compartilhamento de atributos(caracteristicas) e métodos(comportamentos) 
+            de uma mesma hierarquia(árvore). 
+            ° As subclasses herdam todas as propriedades das classes superiores.
+            °           CLASSE 1
+                            ^   
+                            | Herança
+                            |
+                        CLASSE 2 
+            ° Classe superiores -> super classes / classes mãe / classe generica.
+            ° Classe inferiores -> subclasse / classe filha / classe especifica.
+            °   class Animal {
+                    String nome;
+                    int idade;
+                } 
+                class Mamifero extends Animal {
+                    String tipoSanguineo;
+                }
+                class Homem extends Manifero{
+                    String corDePele;
+                }
+                class Cachorro extends Mamifero{
+                    String corDePelo;
+                }
+            ° Reescrita de Métodos -> criar métodos com mesmo nome e assinatura na super
+            classe e subclasse.
+            ° Prioridade é da subclasse.
+            ° Métodos iguais em subclasses e super classes, a prioridade e da subclasse
+
+
+=========================================================================================
