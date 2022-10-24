@@ -33,6 +33,7 @@
             classe e subclasse.
             ° Prioridade é da subclasse.
             ° Métodos iguais em subclasses e super classes, a prioridade e da subclasse
-
+            ° Métodos construtores seguem a ordem da mais generica para a mais especifica.
+            
 
 =========================================================================================

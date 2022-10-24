@@ -10,5 +10,7 @@ public class Animal{
         System.out.println("Nome: "+this.nome);
         System.out.println("Idade: "+this.idade);
     }
-
+    Animal(){
+        System.out.print("Animal Construido");
+    }
 }
