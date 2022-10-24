@@ -1,0 +1,11 @@
+Polimorfismo:
+° Varias formas 
+° Classes de uma mesma origem de herança se passem por superclasses 
+ou apliquem comportamentos diferentes para o mesmo método. 
+° Ocorre por duas maneiras
+    * Herança.
+    * Interface.
+    * Através de:
+        + Métodos
+        + Classes
+° Superclasses não podem se passar por subclasses. 
