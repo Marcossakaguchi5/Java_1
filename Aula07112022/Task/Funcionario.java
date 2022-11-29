@@ -21,12 +21,12 @@ public class Funcionario extends Pessoa{
 
     @Override
     public String toString(){
-        return("Funcionario - Nome: "+this.getNome()+" Funcionario - Cargo: "+this.getCargo()+" Funcionario - Salario: "+this.getSalario());
+        return("Funcionariuble valor){
+        if(valor < 0){
+            IllegalArgumentExceptiono - Nome: "+this.getNome()+" Funcionario - Cargo: "+this.getCargo()+" Funcionario - Salario: "+this.getSalario());
     }
 
-    public void calcularSalario(double valor){
-        if(valor < 0){
-            IllegalArgumentException erro = new IllegalArgumentException();
+    public void calcularSalario(do erro = new IllegalArgumentException();
             throw erro;
         }else{
             this.salario = (this.getIdade()*valor);
